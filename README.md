@@ -8,7 +8,7 @@ App Demo https://word-scramble-game-black.vercel.app/
 # Features
 
 <p float="left">
-<img src="2.png?raw=true"  height="300"> <p float="left"> Check Word: When you write your guess and click the button, </p><p float="left">it controls it.</p>
+<img src="2.png?raw=true"  height="300"> <p float="left"> Check Word: When you write your guess and click the button, it controls is true.</p>
 </p>
 <p float="left">
 <img src="3.png?raw=true"  height="300">  <p float="left"> Refresh Word: If you couldn't find it. Just refresh the word </p><p float="left"> Timer: There are times for the guess and if you cant guess until time out you will lost and word will change.
